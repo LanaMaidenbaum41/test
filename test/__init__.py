@@ -4,4 +4,4 @@
 
 __author__ = """Lana Maidenbaum"""
 __email__ = 'lana.maidenbaum@zeel.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
